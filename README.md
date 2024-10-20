@@ -14,9 +14,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashi1m" alt="rashi1m" /></a> </p>
 
-- 🔭 I’m currently working on **Conexus Shopping Cart**
+- 🔭 I’m currently working on **CoreQuiz App**
 
-- 🌱 I’m currently learning **Core java,Hibernate Framework,Spring,Spring MVC,Spring Boot,Servlet And JSP,SQL**
+- 🌱 I’m currently learning **Core java**
 
 - 💬 Ask me about **Java**
 
